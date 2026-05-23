@@ -1,4 +1,4 @@
-# code-whisperer
+# Molten Hub Code: Whisperer (Example)
 
 Docker Compose setup for running `moltenai/moltenhub-code:vnext` with a
 local `faster-whisper` speech service.
