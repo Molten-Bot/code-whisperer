@@ -45,7 +45,7 @@ stack. All variables below are optional.
 | `PUID` | `1000` | User ID for the Whisper container. |
 | `PGID` | `1000` | Group ID for the Whisper container. |
 | `TZ` | `America/Vancouver` | Time zone used by the Whisper container. |
-| `WHISPER_MODEL` | `tiny-int8` | Whisper model loaded by faster-whisper. |
+| `WHISPER_MODEL` | `auto` | Whisper model loaded by faster-whisper. |
 | `WHISPER_LANG` | `auto` | Language setting passed to faster-whisper. |
 | `WHISPER_BEAM` | `1` | Beam size passed to faster-whisper. |
 | `WHISPER_PORT` | `10300` | Host port forwarded to the Whisper service. |
